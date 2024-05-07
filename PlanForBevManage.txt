@@ -1,0 +1,52 @@
+Should be able to recieve items, transfer items, get info on items, and general inventory of each location:
+  pricing
+  quantity
+  size
+  type
+  subtypes
+Item:
+  Price
+  Type
+  Quantity
+  Size
+    Liquor:
+      Type
+        Whiskey
+        Scotch
+        Tequila
+        Vodka
+        Gin
+        Rum
+        Liquor
+        Cordial
+      Wine:
+        Red
+        White
+      Beer:
+        Seltzer
+        Beer
+      Soda:
+        Beverage
+      Mixer:
+        Beverage
+      Bar Supplies:
+        Bar Supplies
+  Locations:
+    MG Wine Cooler
+    Tavern
+    Lounge
+    Founders
+    Banquet
+    Purchasing
+    Bev Cart
+    Golf Shop
+    Tennis Shop
+    Pool
+    Golf Maintance
+Inventory Function
+  Each area.
+Complete Inventory
+  Look up items.
+  Get general inventory of all beverage related stuff in club house.
+GUI?
+Saved Online in a cloud or httml format.
